@@ -1,0 +1,13 @@
+{
+  "name": "exocordservercloner",
+  "version": "1.0.0",
+  "main": "app.js",
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.23.0",
+    "dotenv": "^10.0.0",
+    "image-to-base64": "^2.2.0",
+    "input": "^1.0.1"
+  }
+}
