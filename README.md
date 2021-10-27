@@ -1,4 +1,4 @@
 # ExoCord-Discord-Server-Cloner
 
-### Enter token in .env
-### Run start.bat
+1. Enter token in .env
+2. Run start.bat
