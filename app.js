@@ -40,7 +40,7 @@ const main = async () => {
     } else {
       await createChannel(
         createdServerId,
-        group?.parent_id,
+        group.parent_id,
         group.type,
         group.name,
         group.permission_overwrites
